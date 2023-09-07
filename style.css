@@ -1,0 +1,28 @@
+body{
+    background-color: #071330;
+    margin: 0;
+}
+.container{
+    width: 100vw;
+    height: 95.5vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.paragrafo-principal{
+    font-family: 'Rajdhani', sans-serif;
+    color: white;
+    text-align: center;
+    font-size: 32px;
+}
+
+.paragrafo-rodape{
+    font-family: 'Rajdhani', sans-serif;
+    color: white;
+    text-align: center;
+    font-size: 12px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
